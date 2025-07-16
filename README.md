@@ -1,22 +1,24 @@
+<!-- README.md -->
+
 # 💫 About Me
 
-👋 Halo, saya **Ghalib Andhika Zulkhi**!  
-Saya seorang **Mahasiswa Teknik Komputer** yang berdedikasi untuk menciptakan solusi inovatif dan efisien.  
-Saya memiliki pengalaman di berbagai bidang seperti **HTML, CSS, JavaScript, PHP, Node.js, Vue, React**.
+👋 Hi there! I'm **Ghalib Andhika Zulkhi**  
+A passionate **Computer Engineering Student** dedicated to crafting innovative and efficient software solutions.  
+I have experience in a wide array of technologies such as **HTML, CSS, JavaScript, PHP, Node.js, Vue, React**, and more.
 
-## 👨‍💻 Tentang saya
+## 👨‍💻 About Me
 
-- 🌱 Saat ini sedang mempelajari **Software Engineering, Web Developer, Fullstack Developer**
-- 💬 Saya suka berdiskusi tentang **Pemrograman, Sejarah, dan lainnya**
-- 🔭 Saya sedang mengerjakan **Web Request-an Dari Client**
-- 🌟 Misi saya adalah **Ingin Mewadahi dan Menyadarkan Kalangan Masyarakat tentang Pentingnya Teknologi**
+- 🌱 Currently learning **Software Engineering, Web Development, and Fullstack Development**
+- 💬 Love discussing **Programming, History, and other thought-provoking topics**
+- 🔭 Currently working on **Client Web-based Requests**
+- 🌟 My mission is to **Raise Awareness on the Importance of Technology in Society**
 
-## 📫 Hubungi saya
+## 📫 Contact Me
 
 - ✉️ Email: [ghalibandikazulkhi@gmail.com](mailto:ghalibandikazulkhi@gmail.com)
-- 🌐 Website: [ghalibapp-ad7f1.web.app](https://ghalibapp-ad7f1.web.app/)
+- 🌐 Website: [ghalibapp-ad7f1.web.app](https://ghalibapp-ad7f1.web.app)
 
-Terima kasih sudah mengunjungi profil saya! Mari kita berkolaborasi! 🚀
+Thanks for visiting my profile! Let’s collaborate and grow together 🚀
 
 ---
 
@@ -62,24 +64,38 @@ Terima kasih sudah mengunjungi profil saya! Mari kita berkolaborasi! 🚀
 
 ---
 
-## 📊 Language Usage (Pie Chart)
+## 📊 GitHub Stats & Highlights
 
-<p align="center">
-  <img src="https://github-readme-pie.vercel.app/api?username=Ghalib28&theme=dark" alt="Language Pie Chart" />
-</p>
+### 🎯 Skills Focus Pie Chart
 
----
+```svg
+<svg width="300" height="300" viewBox="0 0 36 36" class="donut">
+  <circle class="donut-hole" cx="18" cy="18" r="15.91549431" fill="#fff"></circle>
+  <circle class="donut-ring" cx="18" cy="18" r="15.91549431" fill="transparent" stroke="#d2d3d4" stroke-width="3"></circle>
 
-## 📈 GitHub Analytics (Replaced)
+  <!-- Yellow: JavaScript/TypeScript (40%) -->
+  <circle class="donut-segment" cx="18" cy="18" r="15.91549431"
+    fill="transparent" stroke="#facc15" stroke-width="3"
+    stroke-dasharray="40 60" stroke-dashoffset="25"></circle>
 
-> Karena widget GitHub Stats dan Streak mengalami gangguan tampilan, bagian ini digantikan oleh chart di atas.
+  <!-- Blue: Web Backend (20%) -->
+  <circle class="donut-segment" cx="18" cy="18" r="15.91549431"
+    fill="transparent" stroke="#0ea5e9" stroke-width="3"
+    stroke-dasharray="20 80" stroke-dashoffset="65"></circle>
 
----
+  <!-- Green: Databases (25%) -->
+  <circle class="donut-segment" cx="18" cy="18" r="15.91549431"
+    fill="transparent" stroke="#22c55e" stroke-width="3"
+    stroke-dasharray="25 75" stroke-dashoffset="85"></circle>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ghalib28&icon=0&color=0" alt="visitor count" />
-</p>
+  <!-- Purple: Others (15%) -->
+  <circle class="donut-segment" cx="18" cy="18" r="15.91549431"
+    fill="transparent" stroke="#a855f7" stroke-width="3"
+    stroke-dasharray="15 85" stroke-dashoffset="110"></circle>
 
----
+  <g class="chart-text">
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-size="3">Tech Stack</text>
+  </g>
+</svg>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
