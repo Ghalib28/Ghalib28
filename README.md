@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br>👋 Hi there! I'm Ghalib Andhika Zulkhi<br>A passionate Computer Engineering Student dedicated to crafting innovative and efficient software solutions.<br>I have experience in a wide array of technologies such as HTML, CSS, JavaScript, PHP, Node.js, Vue, React, and more.<br><br>👨‍💻 About Me<br>🌱 Currently learning Software Engineering, Web Development, and Fullstack Development<br>💬 Love discussing Programming, History, and other thought-provoking topics<br>🔭 Currently working on Client Web-based Requests<br>🌟 My mission is to Raise Awareness on the Importance of Technology in Society<br>📫 Contact Me<br>✉️ Email: ghalibandikazulkhi@gmail.com<br>🌐 Website: ghalibapp-ad7f1.web.app<br>Thanks for visiting my profile! Let’s collaborate and grow together 🚀
+<br>👋 Hi there! I'm Ghalib Andhika Zulkhi<br>A passionate Computer Engineering Student dedicated to crafting innovative and efficient software solutions.<br>I have experience in a wide array of technologies such as HTML, CSS, JavaScript, PHP, Node.js, Vue, React, and more.<br><br>👨‍💻 About Me<br>🌱 Currently learning Software Engineering, Web Development, and Fullstack Development<br>💬 Love discussing Programming, History, and other thought-provoking topics<br>🔭 Currently working on Client Web-based Requests<br>🌟 My mission is to Raise Awareness on the Importance of Technology in Society<br>📫 Contact Me<br>✉️ Email: ghalibandikazulkhi@gmail.com<br>🌐 Website: ghalibapp-ad7f1.web.app<br>Thanks for visiting my profile! Let’s collaborate and grow together 🚀
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ghalib28&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghalib28&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
